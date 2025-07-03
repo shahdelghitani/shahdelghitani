@@ -14,8 +14,8 @@
 
 ### 🧭 My Journey
 ```
-📍 2022 – Started with Android + Kotlin basics  
-🚀 2023 – Fell in love with Jetpack Compose  
+📍 2022 – Started with python - Data Analysis  
+🚀 2023 – Fell in love with Machine Learning 
 🧠 2024 – Integrated MediaPipe into real-time healthcare project  
 💥 2025 – Creating facial exercises powered by AI + TTS feedback  
 ```
