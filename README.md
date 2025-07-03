@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shahd Elghitani 👋</h1>
-<p align="center">Android Developer | Jetpack Compose Enthusiast | AI + MediaPipe Explorer</p>
+<p align="center"> Data Scientist | Ai Engineer |  MediaPipe Explorer with kotlin projects</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Kotlin+Lover+💜;AI+in+Healthcare+Projects+🤖;Facial+Exercises+App+with+MediaPipe;Welcome+to+my+GitHub!">
