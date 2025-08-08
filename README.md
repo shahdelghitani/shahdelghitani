@@ -59,16 +59,7 @@ Tools:
 - [ ] 🎤 Arabic TTS feedback for exercises  
 - [ ] 🤝 Merging AI + Accessibility
 
----
 
-### 🎥 Sneak Peek (Demo GIFs / Screenshots)
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VsbG90M2RnYzJhb2xpbHdsc3ZmNjZqN2s4ZXU1Z3A4OG5nOXVkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IfB9hy4twML5F99WZ4/giphy.gif" width="300px" />
-</p>
-
-_(replace with your own project demo GIF later)_
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
