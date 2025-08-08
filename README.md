@@ -27,7 +27,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧠 Facial Nerve Exercise App | Real-time face + hand tracking for rehab using AI | Kotlin, MediaPipe, Compose |
-| 🤖 Eye Blink Detection | Eye tracking & analysis | ML, MediaPipe |
+| 🩺 Breast Cancer Detection | Tumor classification (Malignant / Benign) | ML, Neural Networks, TensorFlow |
 | 📲 Android Pose Estimation | Realtime pose feedback on phone | Kotlin, TFLite |
 
 > ✨ More coming soon...
